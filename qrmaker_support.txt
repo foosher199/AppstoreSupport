@@ -1,0 +1,50 @@
+
+QR Code Generator - Simple and Efficient QR Code Creation Tool
+
+App Description
+QR Code Generator is a sleek, efficient tool designed for users who need to quickly create and share QR codes. Whether you're sharing a website URL, text information, or contact details, you can easily convert them into clear, scannable QR codes.
+
+Key Features
+
+Multiple QR Code Types
+• Text QR Code: Convert any text content into a QR code
+• URL QR Code: Quickly generate scannable links to websites
+• Contact QR Code: Integrate name, phone, and email information for one-click contact sharing
+
+Personalization
+• Custom Colors: Adjust QR code colors according to personal preference or brand requirements
+• High Quality: Generate clear, easily scannable high-quality QR code images
+
+Convenient Operations
+• One-Click Copy: Directly copy the QR code image to clipboard after generation
+• Save to Album: Quickly save QR codes to your phone's photo album for easy sharing
+• Smart Paste: Support for quick content pasting from clipboard with automatic URL format recognition
+• Auto-Save: Option to automatically save generated QR codes to history
+
+History Management
+• Smart Recording: Automatically save generated QR codes to avoid repetitive operations
+• Quick Access: Easily view and reuse previously generated QR codes
+• Deduplication: Intelligently identify identical content to avoid duplicate records
+• One-Click Clear: Simple history management to keep the interface clean
+
+User-Friendly Design
+• Clean Interface: Intuitive operation process, no complex learning required
+• Instant Feedback: Clear status prompts after operations
+• Dark/Light Mode: Automatically adapts to system display settings
+• Multi-language Support: Supports both Chinese and English interfaces
+
+Use Cases
+• Merchants sharing store links or promotional information
+• Individuals quickly sharing social media accounts
+• Event organizers sharing event details or registration links
+• Professionals sharing electronic business cards
+• Educators sharing learning resource links
+• Quick sharing of URLs or text information in daily communication
+
+Privacy Protection
+We value your privacy. All QR code generation processes are completed locally and we do not upload or share your personal information. The app only requires photo album access permission to save the generated QR code images.
+
+A simple and easy-to-use QR code generator that makes information sharing more efficient and convenient. Download and use immediately, no registration required, no ad interruptions, providing you with a pure QR code generation experience.
+
+
+email:254458878@qq.com
