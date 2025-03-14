@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Magic Chess Mini
+
+## Description
+
+**Magic Chess Mini brings the timeless game of chess to your wrist with a design perfectly optimized for Apple Watch.**
+
+Experience the classic strategy game reimagined for small screens with our innovative 5×5 board. We've carefully balanced simplicity and depth to create a chess experience that's perfect for quick games on the go.
+
+### Key Features:
+
+• **Compact 5×5 Board**: Specially designed for Apple Watch screens while preserving the essence of chess strategy.
+
+• **Intuitive Controls**: Simple tap controls make piece selection and movement effortless on your watch.
+
+• **Advanced Adaptive AI System**: Our game features a sophisticated AI engine with three carefully calibrated difficulty levels:
+   - **Beginner**: Perfect for new players learning the game, making thoughtful moves that help you understand basic strategies.
+   - **Intermediate**: Offers a balanced challenge for casual players, with tactical play that tests your skills without overwhelming you.
+   - **Advanced**: Provides a serious challenge for experienced players, employing complex strategies and looking multiple moves ahead.
+
+• **AI Color Selection**: Choose whether you want to play as white or black, giving you complete flexibility in how you face the AI.
+
+• **Beautiful Board Skins**: Customize your experience with three elegant board designs to suit your style.
+
+• **Sound & Haptic Feedback**: Immersive audio and tactile feedback enhance your gaming experience.
+
+• **Game Statistics**: Track your progress and improvement over time with detailed game statistics.
+
+• **Offline Play**: No internet connection required - play against the AI anywhere, anytime.
+
+• **Battery Efficient**: Optimized to minimize battery consumption on your Apple Watch.
+
+Magic Chess Mini is perfect for chess enthusiasts of all skill levels. Beginners can learn and practice against a patient AI opponent, intermediate players can sharpen their skills with appropriate challenges, and advanced players can test their tactical thinking against a worthy adversary - all on your wrist.
+
+Whether you're a chess grandmaster or just learning the game, Magic Chess Mini offers an engaging and accessible chess experience right on your wrist.
+
+Download now and make your next move!
+
+
+email:254458878@qq.com
