@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>游戏隐私政策</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#165DFF',
+                        secondary: '#6B7280',
+                        light: '#F9FAFB',
+                        dark: '#1F2937'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .content-auto {
+                content-visibility: auto;
+            }
+            .text-balance {
+                text-wrap: balance;
+            }
+            .scroll-smooth {
+                scroll-behavior: smooth;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans text-dark scroll-smooth">
+    <!-- 顶部导航栏 -->
+    <header class="sticky top-0 z-50 bg-white shadow-sm">
+        <h1 class="text-[clamp(1.25rem,3vw,1.75rem)] font-bold text-primary">
+            <center>游戏隐私政策</center>
+        </h1>
+        <!-- 移动端菜单 -->
+        <nav id="mobileMenu" class="hidden md:hidden bg-white border-t border-gray-100">
+            <div class="container mx-auto px-4 py-2">
+                <ul class="space-y-2 py-2">
+                    <li><a href="#scope" class="block py-2 px-3 hover:bg-gray-100 rounded transition-colors">信息收集范围与方式</a></li>
+                    <li><a href="#usage" class="block py-2 px-3 hover:bg-gray-100 rounded transition-colors">信息使用目的与方式</a></li>
+                    <li><a href="#storage" class="block py-2 px-3 hover:bg-gray-100 rounded transition-colors">信息存储与保护</a></li>
+                    <li><a href="#rights" class="block py-2 px-3 hover:bg-gray-100 rounded transition-colors">用户权利与选择</a></li>
+                    <li><a href="#update" class="block py-2 px-3 hover:bg-gray-100 rounded transition-colors">声明更新与生效</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- 主要内容区 -->
+    <main class="container mx-auto px-4 py-8 md:py-12 max-w-4xl">
+        <!-- 政策引言 -->
+        <section class="bg-white rounded-xl shadow-sm p-6 md:p-8 mb-8">
+            <p class="text-lg leading-relaxed text-balance">
+                我们高度重视您的隐私保护，始终遵循 <strong>“合法、正当、必要”</strong> 的原则处理与本游戏相关的信息。本《隐私声明》旨在向您明确我们如何收集、使用、存储和保护您的信息，帮助您了解自身的信息权益。使用本游戏即表示您已阅读、理解并同意本声明的全部内容。
+            </p>
+        </section>
+
+        <!-- 信息收集范围与方式 -->
+        <section id="scope" class="bg-white rounded-xl shadow-sm p-6 md:p-8 mb-8 scroll-mt-24">
+            <div class="flex items-center mb-6">
+                <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center mr-4">
+                    <i class="fa fa-database text-primary text-xl" aria-hidden="true"></i>
+                </div>
+                <h2 class="text-2xl font-bold text-dark">一、信息收集的范围与方式</h2>
+            </div>
+            
+            <div class="space-y-6">
+                <div class="pl-4 border-l-4 border-primary/30">
+                    <h3 class="text-xl font-semibold mb-3">不收集的信息</h3>
+                    <p class="leading-relaxed text-secondary">
+                        本游戏无服务器架构，不收集您的任何个人身份信息，包括但不限于姓名、身份证号、手机号、电子邮箱、银行卡号等；不获取您的设备通讯录、短信记录、通话记录、位置信息、相册、麦克风权限等敏感信息；不追踪您的浏览历史、应用使用记录等行为数据。
+                    </p>
+                </div>
+                
+                <div class="pl-4 border-l-4 border-primary/30">
+                    <h3 class="text-xl font-semibold mb-3">仅在本地收集的信息</h3>
+                    <p class="leading-relaxed text-secondary mb-4">
+                        为保障游戏正常运行及您的游戏体验，我们仅在您的本地设备上收集并存储以下必要信息，且不会上传至任何服务器：
+                    </p>
+                    <ul class="space-y-3 pl-6">
+                        <li class="flex items-start">
+                            <i class="fa fa-check-circle text-primary mt-1 mr-2" aria-hidden="true"></i>
+                            <span><strong>游戏数据</strong>：包括您的游戏进度（如当前关卡、得分情况）、关卡解锁状态、游戏内道具持有情况、游戏设置偏好（如音效音量、画面亮度）等；</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fa fa-check-circle text-primary mt-1 mr-2" aria-hidden="true"></i>
+                            <span><strong>设备基础信息</strong>：仅在游戏启动时临时获取您的设备型号、操作系统版本、屏幕分辨率等基础信息，用于适配游戏运行环境，该信息不会被存储或传输，游戏关闭后即自动清除。</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- 信息使用目的与方式 -->
+        <section id="usage" class="bg-white rounded-xl shadow-sm p-6 md:p-8 mb-8 scroll-mt-24">
+            <div class="flex items-center mb-6">
+                <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center mr-4">
+                    <i class="fa fa-cogs text-primary text-xl" aria-hidden="true"></i>
+                </div>
+                <h2 class="text-2xl font-bold text-dark">二、信息的使用目的与方式</h2>
+            </div>
+            
+            <div class="space-y-4 leading-relaxed text-secondary">
+                <p>
+                    本地存储的游戏数据仅用于以下目的：保障您再次启动游戏时能恢复之前的游戏进度；根据您的设置偏好提供个性化的游戏体验；优化游戏在您设备上的运行效果，避免出现适配问题。
+                </p>
+                <p>
+                    我们不会将您的任何信息用于本声明未明确说明的其他目的，不会向任何第三方（包括广告商、合作伙伴等）分享、出售、出租您的信息，也不会利用您的信息进行任何商业推广或营销活动。
+                </p>
+                <p>
+                    若因法律法规要求、主管部门调查或保护我们及他人合法权益的需要，需使用您的相关信息，我们将在法律允许的范围内合理使用，并尽可能提前通知您（除非法律禁止）。
+                </p>
+            </div>
+        </section>
+
+        <!-- 信息存储与保护 -->
+        <section id="storage" class="bg-white rounded-xl shadow-sm p-6 md:p-8 mb-8 scroll-mt-24">
+            <div class="flex items-center mb-6">
+                <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center mr-4">
+                    <i class="fa fa-lock text-primary text-xl" aria-hidden="true"></i>
+                </div>
+                <h2 class="text-2xl font-bold text-dark">三、信息的存储与保护</h2>
+            </div>
+            
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="bg-gray-50 rounded-lg p-5 border border-gray-100">
+                    <div class="text-primary text-2xl mb-3">
+                        <i class="fa fa-hdd-o" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">存储方式</h3>
+                    <p class="text-secondary text-sm leading-relaxed">
+                        您的游戏数据仅以加密形式存储在您的本地设备中，存储位置由您的设备系统管理，我们无法远程访问、修改或删除您设备上的信息。
+                    </p>
+                </div>
+                
+                <div class="bg-gray-50 rounded-lg p-5 border border-gray-100">
+                    <div class="text-primary text-2xl mb-3">
+                        <i class="fa fa-shield" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">保护措施</h3>
+                    <p class="text-secondary text-sm leading-relaxed">
+                        我们已通过技术手段保障游戏程序的安全性，防止第三方通过游戏漏洞获取您的本地数据。但请您注意妥善保管个人设备，避免数据泄露风险。
+                    </p>
+                </div>
+                
+                <div class="bg-gray-50 rounded-lg p-5 border border-gray-100">
+                    <div class="text-primary text-2xl mb-3">
+                        <i class="fa fa-trash" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">数据删除</h3>
+                    <p class="text-secondary text-sm leading-relaxed">
+                        您可通过设备"应用管理"清除数据或卸载应用，或通过游戏内"重置游戏"功能删除进度数据。数据删除后无法恢复，请谨慎操作。
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- 用户权利与选择 -->
+        <section id="rights" class="bg-white rounded-xl shadow-sm p-6 md:p-8 mb-8 scroll-mt-24">
+            <div class="flex items-center mb-6">
+                <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center mr-4">
+                    <i class="fa fa-user-circle text-primary text-xl" aria-hidden="true"></i>
+                </div>
+                <h2 class="text-2xl font-bold text-dark">四、用户的权利与选择</h2>
+            </div>
+            
+            <div class="space-y-4 pl-4">
+                <div class="flex items-start">
+                    <i class="fa fa-angle-right text-primary mt-1 mr-3 text-lg" aria-hidden="true"></i>
+                    <p class="leading-relaxed text-secondary">
+                        您有权随时查看、修改本地存储的游戏设置偏好；有权通过卸载游戏的方式彻底删除所有与本游戏相关的本地数据；
+                    </p>
+                </div>
+                <div class="flex items-start">
+                    <i class="fa fa-angle-right text-primary mt-1 mr-3 text-lg" aria-hidden="true"></i>
+                    <p class="leading-relaxed text-secondary">
+                        若您对本声明内容有任何疑问或异议，可通过本声明末尾的联系方式与我们沟通，我们将及时为您解答；若您不同意本声明，可立即停止使用本游戏，卸载已安装的游戏程序。
+                    </p>
+                </div>
+            </div>
+            
+        </section>
+
+        <!-- 声明更新与生效 -->
+        <section id="update" class="bg-white rounded-xl shadow-sm p-6 md:p-8 scroll-mt-24">
+            <div class="flex items-center mb-6">
+                <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center mr-4">
+                    <i class="fa fa-calendar text-primary text-xl" aria-hidden="true"></i>
+                </div>
+                <h2 class="text-2xl font-bold text-dark">五、声明的更新与生效</h2>
+            </div>
+            
+            <div class="space-y-4 leading-relaxed text-secondary">
+                <p>
+                    我们可能会根据游戏功能的更新或法律法规的变化，对本声明内容进行调整。更新后的声明将在游戏启动时通过弹窗形式通知您，若您继续使用本游戏，即视为同意更新后的声明内容；
+                </p>
+                <p>
+                    本声明自您首次下载并启动本游戏之日起生效，持续有效直至您卸载本游戏或本游戏终止运营；
+                </p>
+            </div>
+            
+            
+            <!-- <div class="mt-6 bg-gray-50 rounded-lg p-4 border border-gray-200">
+                <p class="text-center text-secondary font-medium">
+                    本隐私政策最后更新日期：2024年5月1日
+                </p>
+            </div> -->
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="bg-dark text-white py-8 mt-12">
+        <div class="container mx-auto px-4 text-center">
+            <p class="mb-4">© 2024 游戏开发团队. 保留所有权利.</p>
+            <div class="flex justify-center space-x-6">
+                <a href="#scope" class="text-gray-300 hover:text-white transition-colors">信息收集</a>
+                <a href="#usage" class="text-gray-300 hover:text-white transition-colors">信息使用</a>
+                <a href="#storage" class="text-gray-300 hover:text-white transition-colors">信息保护</a>
+                <a href="#rights" class="text-gray-300 hover:text-white transition-colors">用户权利</a>
+                <a href="#update" class="text-gray-300 hover:text-white transition-colors">声明更新</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 返回顶部按钮 -->
+    <button id="backToTop" class="fixed bottom-8 right-8 bg-primary text-white w-12 h-12 rounded-full shadow-lg flex items-center justify-center opacity-0 invisible transition-all duration-300 hover:bg-primary/90 focus:outline-none">
+        <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    </button>
+
+    <!-- JavaScript -->
+    <script>
+        // 移动端菜单切换
+        const menuToggle = document.getElementById('menuToggle');
+        const mobileMenu = document.getElementById('mobileMenu');
+        
+        menuToggle.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+            const icon = menuToggle.querySelector('i');
+            if (mobileMenu.classList.contains('hidden')) {
+                icon.classList.remove('fa-times');
+                icon.classList.add('fa-bars');
+            } else {
+                icon.classList.remove('fa-bars');
+                icon.classList.add('fa-times');
+            }
+        });
+        
+        // 点击移动端菜单项后关闭菜单
+        const mobileMenuItems = mobileMenu.querySelectorAll('a');
+        mobileMenuItems.forEach(item => {
+            item.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+                const icon = menuToggle.querySelector('i');
+                icon.classList.remove('fa-times');
+                icon.classList.add('fa-bars');
+            });
+        });
+        
+        // 返回顶部按钮
+        const backToTopButton = document.getElementById('backToTop');
+        
+        window.addEventListener('scroll',
