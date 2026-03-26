@@ -1,0 +1,20 @@
+NumberPuzzleGame-Offline is a clean and relaxing 2048-style number puzzle you can play anytime, even without internet.
+Swipe to move tiles, merge matching numbers, and keep your board alive as long as possible.
+Easy to start, challenging to master.
+
+Features
+Classic 4x4 number merge gameplay
+Smooth controls and quick sessions
+Play fully offline
+Undo, Shuffle, and Eliminate helper skills
+Save progress automatically
+Track best score and highest tile
+
+How to Play
+Swipe up, down, left, or right to move all tiles
+Matching numbers merge into a larger number
+New tiles appear after each move
+No moves left = game over
+Can you reach 2048 and beyond?
+
+email:254458878@qq.com
