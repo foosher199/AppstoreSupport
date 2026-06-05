@@ -1,0 +1,21 @@
+Overview:
+
+BatchPicCompress is a local batch image compression app built for Mac—simple, fast, and privacy-focused. Drop your images into the window to start processing. Everything runs on your Mac; nothing is uploaded to the cloud.
+
+
+Features:
+
+1.Supports PNG and JPEG. Compression starts automatically after you add files.
+2.Supports folder drag-and-drop. The app automatically finds all supported images in the folder.
+3.Supports replacing the original file after compression.
+4.Supports batch processing with clear status for each image: pending, processing, complete, or failed.
+5.Supports side-by-side compare preview so you can check the original and compressed result before you use the files.
+6.Local and private—no server uploads. Your images stay on your device.
+7.Multiple appearance themes—choose the look you prefer.
+
+
+Contact:
+
+If you have any questions, you can reach me at:
+Email: foosher199@gmail.com 
+QQ Group: 702733490
