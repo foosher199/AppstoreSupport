@@ -1,0 +1,47 @@
+PDF Workshop - Document Conversion Assistant is built for everyday document workflows at work and school.  Its goal is simple: make PDF to Word, Excel, and PPT conversion smoother, clearer, and easier to manage.
+
+Instead of trying to be an overloaded “do-everything PDF suite,” PDF Workshop focuses on what many users actually need:
+fast import, clear conversion flow, understandable status, and practical file management.
+
+Core Features
+1. Convert PDF to Word (DOCX)
+2. Convert PDF to Excel (XLSX)
+3. Convert PDF to PowerPoint (PPTX)
+4. Add multiple files for batch conversion
+5. Import via drag-and-drop or file picker
+6. Track progress and task status clearly
+7. Review and manage previous tasks in History
+8. Choose your preferred download folder
+
+Why PDF Workshop
+1. Focused product direction
+The app is designed around high-frequency conversion tasks, so you can start quickly without a steep learning curve.
+
+2. Better efficiency for repetitive work
+Batch processing helps reduce repetitive manual steps when handling many files.
+
+3. Clear status feedback
+You can see whether a task is converting, completed, or failed, which makes the process more predictable.
+
+4. Trackable conversion history
+Past tasks are easy to review and manage, especially useful for recurring document workflows.
+
+5. Practical download organization
+Custom output folder settings help keep converted files organized in your own structure.
+
+Common Use Cases
+1. Turn PDF reports into editable Word documents
+2. Convert PDF tables to Excel for sorting and analysis
+3. Convert PDF materials to PPT for presentation reuse
+4. Process multiple files for class, project, or team documentation
+
+Account and Subscription
+1. Sign in with Apple is supported
+2. Plan and quota details are shown in-app
+3. Restore and manage subscription options are available
+
+PDF Workshop is not trying to impress with feature overload.
+It is designed to help you complete document conversion tasks faster, with less friction and more clarity.
+If you want a practical and reliable PDF conversion workflow, PDF Workshop is made for you.
+
+email:foosher199@gmail.com
