@@ -1,0 +1,53 @@
+WorkMark Camera is built for field work, project documentation, and everyday check-in workflows. Its goal is simple: make watermarked photo capture smoother, clearer, and easier to use.
+
+Instead of trying to be an overloaded “all-in-one camera suite,” WorkMark Camera focuses on what many users actually need:
+live preview, rich watermark templates, flexible field editing, and one-tap save to the photo library.
+
+Core Features
+1. Capture photos with live watermark overlay
+2. Import photos from the library and add watermarks
+3. Multiple preset templates (engineering, attendance, travel, transport, and more)
+4. Custom watermark templates and fields
+5. Drag to reposition watermarks
+6. Show time, location, coordinates, notes, and other fields (depending on template and permissions)
+7. Save watermarked photos to the photo library
+8. Membership unlocks more templates and higher export resolution
+
+Why WorkMark Camera
+1. Focused product direction
+The app is designed around “capture + watermark,” so you can start quickly without a steep learning curve.
+
+2. Templates for many scenarios
+Preset templates fit common workflows such as engineering, attendance, property, and transport.
+
+3. Flexible editing
+Adjust fields, order, and content, and save custom templates for reuse.
+
+4. Local processing
+Photos are composited on your device and are not uploaded to our servers.
+
+5. Transparent subscriptions
+Plans, trials, and restore purchase are shown in-app; payments are handled securely by Apple.
+
+Common Use Cases
+1. On-site engineering documentation
+2. Field attendance and check-in records
+3. Property, home service, and transport workflows
+4. Travel or event photo records
+
+Permissions
+1. Camera — capture watermarked photos
+2. Photo Library — import and save results
+3. Location (optional) — show place or coordinates in watermarks
+
+Account and Subscription
+1. No account registration required
+2. Weekly, monthly, and yearly membership plans
+3. Free trial may be available as shown in the App
+4. Restore purchase and subscription management supported
+
+WorkMark Camera is not trying to impress with feature overload.
+It is designed to help you complete watermarked photo workflows faster, with less friction and more clarity.
+If you want a practical and reliable watermark camera tool, WorkMark Camera is made for you.
+
+email:foosher199@gmail.com
