@@ -1,6 +1,6 @@
-WorkMark Camera is built for field work, project documentation, and everyday check-in workflows. Its goal is simple: make watermarked photo capture smoother, clearer, and easier to use.
+WorkStamp Camera is built for field work, project documentation, and everyday check-in workflows. Its goal is simple: make watermarked photo capture smoother, clearer, and easier to use.
 
-Instead of trying to be an overloaded “all-in-one camera suite,” WorkMark Camera focuses on what many users actually need:
+Instead of trying to be an overloaded “all-in-one camera suite,” WorkStamp Camera focuses on what many users actually need:
 live preview, rich watermark templates, flexible field editing, and one-tap save to the photo library.
 
 Core Features
@@ -13,7 +13,7 @@ Core Features
 7. Save watermarked photos to the photo library
 8. Membership unlocks more templates and higher export resolution
 
-Why WorkMark Camera
+Why WorkStamp Camera
 1. Focused product direction
 The app is designed around “capture + watermark,” so you can start quickly without a steep learning curve.
 
@@ -46,8 +46,8 @@ Account and Subscription
 3. Free trial may be available as shown in the App
 4. Restore purchase and subscription management supported
 
-WorkMark Camera is not trying to impress with feature overload.
+WorkStamp Camera is not trying to impress with feature overload.
 It is designed to help you complete watermarked photo workflows faster, with less friction and more clarity.
-If you want a practical and reliable watermark camera tool, WorkMark Camera is made for you.
+If you want a practical and reliable watermark camera tool, WorkStamp Camera is made for you.
 
 email:foosher199@gmail.com
