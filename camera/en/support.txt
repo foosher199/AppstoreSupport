@@ -11,7 +11,7 @@ Core Features
 5. Drag to reposition watermarks
 6. Show time, location, coordinates, notes, and other fields (depending on template and permissions)
 7. Save watermarked photos to the photo library
-8. Membership unlocks more templates and higher export resolution
+8. Membership unlocks capture & save, higher export resolution, and related benefits
 
 Why WorkStamp Camera
 1. Focused product direction

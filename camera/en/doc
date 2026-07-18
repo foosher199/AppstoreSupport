@@ -71,13 +71,13 @@
         <h1>WorkStamp Camera — Privacy Policy</h1>
         <p class="updated">
             Effective Date: <strong>July 14, 2026</strong><br>
-            Last Updated: <strong>July 14, 2026</strong>
+            Last Updated: <strong>July 18, 2026</strong>
         </p>
 
         <h2>Introduction</h2>
         <p>
             This Privacy Policy explains how information is handled when you use
-            <strong>WorkStamp Camera</strong> (Chinese name: 工作水印相机; the “App”), an iOS watermark camera application that overlays
+            <strong>WorkStamp Camera</strong> (Chinese name: 工作水印相机; the “App”), an iOS watermark camera application for iPhone / iPad that overlays
             time, location, project details, and other fields on photos you capture or import.
             The App’s bundle identifier is <code>com.bigfish.WatermarkCamera</code>.
         </p>
@@ -116,7 +116,7 @@
         <p>
             If you subscribe, payment is processed by Apple through the App Store (StoreKit). We do not receive
             your payment card details. The App reads subscription status on your device to unlock features
-            (such as premium templates and higher export resolution), including:
+            (such as capture and save, and higher export resolution), including:
         </p>
         <ul>
             <li>Product identifier and whether a subscription is active</li>
@@ -125,7 +125,7 @@
         </ul>
 
         <h3>Information Stored on Your Device</h3>
-        <p>The App stores the following data locally on your iPhone:</p>
+        <p>The App stores the following data locally on your iPhone / iPad or other iOS device:</p>
         <ul>
             <li>Selected watermark templates and field settings</li>
             <li>Custom watermark templates and edited content</li>
@@ -176,7 +176,7 @@
 
         <h3>Deleting Data</h3>
         <p>
-            You can delete the App from iPhone Storage in Settings to clear local template and preference data.
+            You can delete the App from iPhone / iPad Storage in Settings to clear local template and preference data.
             Photos already saved to your library must be deleted in the Photos app.
             Deleting the App does not cancel an App Store subscription; manage subscriptions in Apple ID settings.
         </p>
