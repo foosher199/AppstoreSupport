@@ -71,15 +71,15 @@
         <h1>PDF Workshop — Privacy Policy</h1>
         <p class="updated">
             Effective Date: <strong>June 19, 2026</strong><br>
-            Last Updated: <strong>June 19, 2026</strong>
+            Last Updated: <strong>July 25, 2026</strong>
         </p>
 
         <h2>Introduction</h2>
         <p>
             This Privacy Policy explains how information is handled when you use
-            <strong>PDF Workshop</strong> (the “App”), a macOS application that converts PDF files
-            to DOCX, XLSX, and PPTX. The App’s bundle identifier is
-            <code>com.bigfish.TransferPDFtoDocx</code>.
+            <strong>PDF Workshop</strong> (the “App”), available on <strong>macOS</strong> and
+            <strong>iOS</strong>, to convert PDF files to DOCX, XLSX, and PPTX. Both platforms
+            use the same cloud service and this Privacy Policy.
         </p>
         <p>
             By using the App, you agree to this Privacy Policy. Related terms are in our
@@ -100,7 +100,9 @@
                 provide this the first time you sign in)</li>
         </ul>
         <p>
-            We do not receive your Apple ID password. Sign-in is handled by Apple.
+            We do not receive your Apple ID password. Sign-in is handled by Apple. If you sign in
+            on Mac and iPhone with the same Apple account, you may be linked to the same
+            server-side account.
         </p>
 
         <h3>User Content (PDF Files)</h3>
@@ -122,9 +124,9 @@
 
         <h3>Subscription and Purchase Information</h3>
         <p>
-            If you subscribe, payment is processed by Apple through StoreKit. We do not receive
-            your payment card details. We store subscription-related information needed to provide
-            your plan, such as:
+            If you subscribe, payment is processed by Apple through StoreKit / the App Store. We
+            do not receive your payment card details. We store subscription-related information
+            needed to provide your plan, such as:
         </p>
         <ul>
             <li>Product identifier and subscription status</li>
@@ -132,17 +134,25 @@
             <li>Subscription start and expiration dates</li>
             <li>Remaining usage quota for your plan</li>
         </ul>
+        <p>
+            Subscription products may differ by platform. Prices, plan benefits, and quotas shown
+            in the App you are using control.
+        </p>
 
-        <h3>Information Stored on Your Mac</h3>
-        <p>The App stores the following data locally on your device:</p>
+        <h3>Information Stored on Your Device</h3>
+        <p>The App stores the following data locally on your device (with platform differences):</p>
         <ul>
-            <li><strong>Access token</strong> — in the macOS Keychain, used to keep you signed in</li>
-            <li><strong>Download folder preference</strong> — a security-scoped bookmark for the
-                folder you choose for saving converted files</li>
+            <li><strong>Access token</strong> — in the system Keychain, used to keep you signed in</li>
+            <li><strong>macOS</strong> — a download-folder preference (security-scoped bookmark)
+                for the folder you choose for saving converted files</li>
+            <li><strong>iOS</strong> — downloaded conversion results may be stored in the App’s
+                sandboxed Documents directory for reopening or sharing; you can clear related
+                caches in the App</li>
         </ul>
         <p>
             The access token is sent to our servers with API requests to authenticate your account.
-            Other local preferences are not uploaded.
+            Other local preferences and already-downloaded files are not uploaded as sync data
+            (except PDFs you choose to convert).
         </p>
 
         <h3>Information We Do Not Collect</h3>
@@ -188,9 +198,9 @@
 
         <h3>Deleting Your Account</h3>
         <p>
-            You can delete your account from <strong>Settings</strong> using the
-            <strong>Delete Account</strong> link at the bottom of the page. This permanently
-            deletes:
+            You can delete your account from the App’s <strong>Account</strong> or
+            <strong>Settings</strong> screen using <strong>Delete Account</strong>. This
+            permanently deletes:
         </p>
         <ul>
             <li>Your profile and sign-in records on our servers</li>
@@ -203,9 +213,9 @@
             in your Apple ID account settings.
         </p>
         <p>
-            Signing out or deleting your account clears the session in the App. Local Keychain and
-            folder preferences may also be cleared; uninstalling the App removes local data on
-            your Mac.
+            Signing out or deleting your account clears the session in the App. Local Keychain
+            data and platform-specific preferences or caches may also be cleared; uninstalling
+            the App removes local app data on that device.
         </p>
 
         <h2>Sharing of Information</h2>
@@ -228,7 +238,7 @@
         <h2>Security</h2>
         <p>
             Communication between the App and our servers uses HTTPS/TLS. Access tokens are stored
-            in the macOS Keychain. No online service can guarantee perfect security.
+            in the system Keychain. No online service can guarantee perfect security.
         </p>
 
         <h2>Children’s Privacy</h2>
