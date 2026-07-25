@@ -1,33 +1,34 @@
-PDF Workshop - Document Conversion Assistant is built for everyday document workflows at work and school.  Its goal is simple: make PDF to Word, Excel, and PPT conversion smoother, clearer, and easier to manage.
+Support
 
-Instead of trying to be an overloaded “do-everything PDF suite,” PDF Workshop focuses on what many users actually need:
-fast import, clear conversion flow, understandable status, and practical file management.
+This support page applies to our apps that link here. Our apps focus on practical PDF document conversion for everyday work and study: convert PDF files to Word, Excel, and PowerPoint with a clear flow and easy task management.
+
+We do not try to be an overloaded “do-everything PDF suite.” We focus on what many users need most: fast import, clear conversion status, understandable feedback, and practical file handling.
 
 Core Features
 1. Convert PDF to Word (DOCX)
 2. Convert PDF to Excel (XLSX)
 3. Convert PDF to PowerPoint (PPTX)
-4. Add multiple files for batch conversion
-5. Import via drag-and-drop or file picker
+4. Add multiple files for batch conversion (where available)
+5. Import via file picker; drag-and-drop may be available on some platforms
 6. Track progress and task status clearly
 7. Review and manage previous tasks in History
-8. Choose your preferred download folder
+8. Save converted files locally (custom download folder on macOS; app sandbox downloads on iOS)
 
-Why PDF Workshop
+Why Choose Our Apps
 1. Focused product direction
-The app is designed around high-frequency conversion tasks, so you can start quickly without a steep learning curve.
+Designed around high-frequency conversion tasks so you can start quickly.
 
 2. Better efficiency for repetitive work
-Batch processing helps reduce repetitive manual steps when handling many files.
+Batch processing helps reduce repetitive steps when handling many files.
 
 3. Clear status feedback
-You can see whether a task is converting, completed, or failed, which makes the process more predictable.
+See whether a task is converting, completed, or failed.
 
 4. Trackable conversion history
-Past tasks are easy to review and manage, especially useful for recurring document workflows.
+Past tasks are easy to review and manage for recurring workflows.
 
-5. Practical download organization
-Custom output folder settings help keep converted files organized in your own structure.
+5. Practical local file handling
+Keep converted files organized in a way that fits your device and platform.
 
 Common Use Cases
 1. Turn PDF reports into editable Word documents
@@ -36,12 +37,15 @@ Common Use Cases
 4. Process multiple files for class, project, or team documentation
 
 Account and Subscription
-1. Sign in with Apple is supported
+1. Sign in with Apple is supported where cloud conversion is required
 2. Plan and quota details are shown in-app
-3. Restore and manage subscription options are available
+3. Restore purchases and manage subscriptions through Apple
 
-PDF Workshop is not trying to impress with feature overload.
-It is designed to help you complete document conversion tasks faster, with less friction and more clarity.
-If you want a practical and reliable PDF conversion workflow, PDF Workshop is made for you.
+Platform Notes
+Features and UI may differ slightly between macOS and iOS. Display names may also differ across apps that share this support page. Subscription products and limits are always shown in the app you are using.
 
-email:foosher199@gmail.com
+Need Help?
+Email: foosher199@gmail.com
+
+Privacy Policy: https://foosher199.github.io/AppstoreSupport/pdf/privacy.html
+Terms of Use: https://foosher199.github.io/AppstoreSupport/pdf/terms.html
