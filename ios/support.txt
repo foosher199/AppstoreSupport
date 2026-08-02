@@ -1,0 +1,44 @@
+Support
+
+This support page is shared by our iOS apps that link here. App display names and feature sets may differ. Use the in-app Settings or Help entry for the product you installed; the Privacy Policy and Terms linked below apply to all apps that point to this folder.
+
+What Our Apps May Offer
+Depending on the app, features can include:
+1. On-device photo or video cleanup, compression, or organization
+2. Contacts cleanup or backup
+3. Calendar cleanup of past events
+4. Document or file utilities (where offered)
+5. Optional cloud processing (where offered)
+6. In-app subscriptions or purchases via the App Store
+
+Privacy-First Design
+1. Many tools run on your device; content is not uploaded unless you start a cloud feature.
+2. System permissions (Photos, Contacts, Calendar, etc.) are requested only when needed.
+3. We do not sell your personal information.
+
+Subscriptions
+1. Plan details and prices are shown in the app before purchase.
+2. Restore purchases from the paywall or Settings.
+3. Manage or cancel auto-renewable subscriptions in your Apple ID subscription settings.
+4. Refunds are handled by Apple under App Store policies.
+
+Limited Photo Access
+If you grant “Selected Photos” access, only those items are visible to the app. You can change the selection in iOS Settings → [App Name] → Photos, or use in-app “Select More Photos” when available.
+
+Common Questions
+1. Why do I still see photos I selected earlier?
+iOS remembers Limited Library selections until you change them in Settings or the system picker.
+
+2. Did deleting in the app remove my files permanently?
+Deleted photos/videos go to the system Recently Deleted album for a period; contacts and calendar deletions follow iOS behavior. Review confirmations carefully.
+
+3. Compression created a new file?
+Many apps save a compressed copy and keep the original unless you choose to delete it.
+
+Need Help?
+Email: foosher199@gmail.com
+
+Please include the app name, iOS version, and a short description of the issue.
+
+Privacy Policy: https://foosher199.github.io/AppstoreSupport/ios/privacy.html
+Terms of Use: https://foosher199.github.io/AppstoreSupport/ios/terms.html
