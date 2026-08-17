@@ -1,0 +1,41 @@
+Support
+
+This support page applies to the mobile application that links to this page.
+
+What the App Offers
+1. On-device photo and video cleanup, compression, and organization
+2. Contacts cleanup and VCF backup
+3. Calendar cleanup of selected past events
+4. In-app subscriptions and a lifetime purchase through the App Store
+
+Privacy-First Design
+1. Photo, video, contact, and calendar processing runs on your device and is not uploaded to developer-operated servers.
+2. System permissions (Photos, Contacts, Calendar, etc.) are requested only when needed.
+3. We do not sell your personal information.
+
+Subscriptions
+1. Plan details and prices are shown in the app before purchase.
+2. Restore purchases from the paywall or Settings.
+3. Manage or cancel auto-renewable subscriptions in your Apple ID subscription settings.
+4. Refunds are handled by Apple under App Store policies.
+
+Limited Photo Access
+If you grant “Selected Photos” access, only those items are visible to the app. You can change the selection in iOS Settings → [App Name] → Photos, or use in-app “Select More Photos” when available.
+
+Common Questions
+1. Why do I still see photos I selected earlier?
+iOS remembers Limited Library selections until you change them in Settings or the system picker.
+
+2. Did deleting in the app remove my files permanently?
+Deleted photos/videos go to the system Recently Deleted album for a period; contacts and calendar deletions follow iOS behavior. Review confirmations carefully.
+
+3. Did compression create a new file?
+The App saves a compressed copy and keeps the original unless you separately choose to delete it.
+
+Need Help?
+Email: foosher199@gmail.com
+
+Please include the app name, iOS version, and a short description of the issue.
+
+Privacy Policy: https://foosher199.github.io/AppstoreSupport/cleaner/privacy.html
+Terms of Use: https://foosher199.github.io/AppstoreSupport/cleaner/terms.html
