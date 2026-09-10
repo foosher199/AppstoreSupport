@@ -1,0 +1,55 @@
+This app is built for two-factor authentication and everyday account security. Its goal is simple: keep your TOTP codes and passwords easy to use, private on your device, and ready when you need them.
+
+Instead of turning into an overloaded “security suite,” the app focuses on what many users actually need:
+fast setup, clear codes, local encryption, optional iCloud backup, and a keyboard that can insert verification codes.
+
+Core Features
+1. Add accounts by scanning a QR code, picking a QR image, or entering a secret manually
+2. View time-based (TOTP) codes with a countdown and one-tap copy
+3. Organize accounts with groups and search
+4. Store passwords locally in an encrypted vault
+5. Generate strong passwords
+6. Lock the app with Face ID / Touch ID or device passcode
+7. Optional iCloud sync for encrypted vault backup across your devices
+8. Custom keyboard extension to insert current codes into other apps
+9. Premium unlocks encrypted file export/import and related backup benefits
+
+Why This App
+1. Focused product direction
+Designed around authenticator codes + passwords, so you can start quickly without extra clutter.
+
+2. Local-first privacy
+OTP secrets and passwords are encrypted on your device. We do not run a server that stores your vault.
+
+3. Practical everyday tools
+Copy codes quickly, search accounts, and use the keyboard extension when typing into other apps.
+
+4. Optional cloud backup
+Turn on iCloud sync when you want recovery across your own Apple devices.
+
+5. Transparent subscriptions
+Plans and restore purchase are shown in-app; payments are handled securely by Apple.
+
+Common Use Cases
+1. Protecting email, social, and work accounts with 2FA
+2. Keeping backup codes and passwords in one place on your phone
+3. Restoring accounts on a new iPhone via iCloud or Premium export/import
+4. Inserting a verification code from the keyboard without switching apps
+
+Permissions
+1. Camera — scan QR codes to add 2FA accounts
+2. Photo Library — select QR code images
+3. Face ID / Touch ID — unlock the app when App Lock is enabled
+4. iCloud — optional encrypted sync (when enabled)
+5. Keyboard Full Access — required for the keyboard extension to read the shared encrypted vault
+
+Account and Subscription
+1. No account registration required with us
+2. Weekly and yearly Premium plans (as shown in the App)
+3. Free trial may be available as shown in the App
+4. Restore purchase and subscription management supported via Apple ID
+
+Privacy Policy: https://foosher199.github.io/AppstoreSupport/code/privacy.html
+Terms of Use (EULA): https://foosher199.github.io/AppstoreSupport/code/terms.html
+
+email: foosher199@gmail.com
