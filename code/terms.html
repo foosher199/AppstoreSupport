@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms of Use (EULA)</title>
+    <title>Terms of Use</title>
     <style>
         body {
             font-family: 'Helvetica Neue', Arial, sans-serif;
@@ -51,34 +51,44 @@
             padding-top: 20px;
         }
         a { color: #3498db; }
+        .lang {
+            margin-top: 48px;
+            padding-top: 8px;
+            border-top: 2px solid #eee;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Terms of Use (EULA)</h1>
+        <h1>Terms of Use</h1>
         <p class="updated">
-            Effective Date: <strong>September 10, 2026</strong><br>
-            Last Updated: <strong>September 10, 2026</strong>
+            Effective Date: <strong>September 13, 2026</strong><br>
+            Last Updated: <strong>September 13, 2026</strong>
         </p>
 
         <h2>1. Agreement</h2>
         <p>
-            These Terms of Use (“Terms” or “EULA”) apply to the Authenticator application and related services that
+            These Terms of Use (“Terms”) apply to the application and related services that
             link to this page from within the app, on App Store product pages, or on related websites
             (collectively, the “App”). The App provides two-factor authentication (TOTP) codes, a local password vault,
-            optional iCloud backup, app lock, and a custom keyboard extension.
+            app lock, a custom keyboard extension, and Premium iCloud sync and password-protected portable backups.
         </p>
         <p>
             By using the App, you agree to these Terms and to our
             <a href="privacy.html">Privacy Policy</a>.
+            If you downloaded the App from the Apple App Store, Apple’s
+            <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Licensed Application End User License Agreement</a>
+            also applies. If these Terms conflict with Apple’s standard EULA on a point Apple requires, Apple’s terms control that point.
         </p>
         <p>If you do not agree, do not use the App.</p>
 
         <h2>2. The Service</h2>
         <p>
-            The App may allow you to add TOTP accounts (including via QR scan), view and copy time-based codes,
-            store passwords locally, generate passwords, lock the App with biometrics, sync an encrypted vault with
-            iCloud when enabled, export/import encrypted backups (Premium), and insert codes through the keyboard extension.
+            The App may allow you to add TOTP accounts (including by scanning a QR code, selecting a QR image, or entering a secret),
+            view and copy time-based codes, store passwords locally, generate passwords, lock the App with biometrics,
+            and insert codes through the keyboard extension.
+            With an active Premium subscription, you may also turn on encrypted iCloud sync and export or import a
+            password-protected backup of authenticator accounts and password-vault entries.
             Availability may vary by device, iOS version, permissions, or subscription status.
         </p>
         <p>
@@ -86,44 +96,54 @@
             or operational reasons.
         </p>
 
-        <h2>3. Permissions and Accounts</h2>
+        <h2>3. Permissions</h2>
         <p>
-            The App typically does not require account registration with us. Some features may require camera,
-            photo library, Face ID / Touch ID, iCloud, or keyboard Full Access permissions, which you can manage
+            The App does not require account registration with us. Some features may require camera,
+            photo library, Face ID / Touch ID, iCloud, or keyboard Full Access, which you can manage
             in iOS Settings at any time.
         </p>
         <p>
             Denying certain permissions may make related features unavailable (for example, QR scanning,
             biometric unlock, iCloud sync, or keyboard code insertion).
+            Full Access for the keyboard is used only so the keyboard can read the encrypted vault shared by this App.
+            The keyboard does not collect what you type.
         </p>
 
         <h2>4. Subscriptions and Payments</h2>
         <p>
-            Premium features such as encrypted backup export/import may require a paid subscription.
-            Purchases are processed by Apple through the App Store. We do not collect your payment card information.
+            Premium is an auto-renewable subscription processed by Apple. We do not collect your payment card information.
+            Free use includes TOTP codes, the password vault, password generation, app lock, and the keyboard extension.
+            Premium unlocks encrypted iCloud sync and password-protected backup export/import.
         </p>
         <ul>
-            <li>Subscription price, billing period, and plan benefits are shown in the App before you purchase.</li>
-            <li>Subscriptions renew automatically unless you cancel at least 24 hours before the end of the current billing period.</li>
-            <li>Payment is charged to your Apple ID account. Renewal charges are applied within 24 hours before the current period ends.</li>
-            <li>You can manage or cancel subscriptions in Apple ID account settings.</li>
+            <li><strong>Weekly</strong> — auto-renews every week. The price shown in the App at purchase is charged to your Apple ID. The United States price is $4.99 per week; prices in other storefronts may differ and are shown before you confirm purchase.</li>
+            <li><strong>Yearly</strong> — auto-renews every year. The price shown in the App at purchase is charged to your Apple ID. The United States price is $29.99 per year; prices in other storefronts may differ and are shown before you confirm purchase.</li>
+            <li>There is no free trial unless a trial is clearly shown on the App Store purchase sheet.</li>
+            <li>Payment is charged to your Apple ID at confirmation of purchase.</li>
+            <li>The subscription renews automatically unless you cancel at least 24 hours before the end of the current period.</li>
+            <li>Your account is charged for renewal within 24 hours before the end of the current period.</li>
+            <li>You can manage or cancel anytime in Settings &gt; Apple ID &gt; Subscriptions.</li>
+            <li>Any unused portion of a free trial, if offered, is forfeited when you purchase a subscription, where applicable.</li>
             <li>Refunds are handled by Apple under App Store policies.</li>
-            <li>New users may receive a free trial as shown in the App; after the trial, the selected plan renews automatically unless canceled in advance.</li>
         </ul>
         <p>
-            Non-subscribers may use core authenticator and password features as described in the App.
-            Premium benefits are as shown before purchase.
+            Premium access ends when the subscription expires, is revoked, or is not restored.
+            Restore Purchases is available in the App.
         </p>
 
-        <h2>5. Your Data and Content</h2>
+        <h2>5. Your Data and Backups</h2>
         <p>
             You retain ownership of the account labels, secrets, passwords, and backups you create.
-            Vault data is processed on your device; optional sync uses your personal Apple iCloud.
+            Vault data is processed on your device. Premium iCloud sync uses your personal Apple iCloud.
             We do not require you to upload OTP secrets or passwords to our servers.
         </p>
         <p>
+            Portable backups are encrypted with a password you choose. You are solely responsible for remembering that password.
+            We cannot reset or recover it. Without it, a backup file cannot be restored.
+        </p>
+        <p>
             You are responsible for safeguarding your device, Apple ID, exported backup files, and any accounts
-            protected by codes generated in the App. Losing access to your secrets may lock you out of third-party services.
+            protected by codes generated in the App. Losing access to your secrets or backup password may lock you out of third-party services.
         </p>
 
         <h2>6. Acceptable Use</h2>
@@ -152,6 +172,7 @@
         <p>
             The App, its design, and software are owned by us or our licensors. These Terms do not grant you any rights
             to our trademarks or software except the limited right to use the App as intended.
+            The App is not affiliated with Google, Microsoft, or other services whose QR codes it can import.
         </p>
 
         <h2>9. Disclaimer</h2>
@@ -164,11 +185,12 @@
         <h2>10. Limitation of Liability</h2>
         <p>
             To the extent permitted by applicable law, we are not liable for indirect, incidental, special, consequential,
-            or punitive damages, or for loss of data, profits, account access, or business arising from your use of the App.
+            or punitive damages, or for loss of data, profits, account access, or business arising from your use of the App,
+            including inability to restore a backup because the backup password was lost.
         </p>
         <p>
             Our total liability for any claim related to the App or service is limited to the amount you paid us for
-            the service in the 12 months before the claim.
+            the service in the 12 months before the claim, or, if you paid nothing, zero.
         </p>
         <p>
             Some jurisdictions do not allow certain limitations; in those cases, the above limits apply only to the extent allowed by law.
@@ -176,9 +198,9 @@
 
         <h2>11. Apple</h2>
         <p>
-            The App is distributed through the App Store. Apple is not responsible for the App or its content.
-            Apple has no obligation to provide maintenance or support for the App. Apple is a third-party beneficiary
-            of these Terms and may enforce them against you as a third-party beneficiary.
+            The App is distributed through the App Store. Apple is not a party to these Terms except as stated in Apple’s standard EULA.
+            Apple is not responsible for the App or its content and has no obligation to provide maintenance or support for the App.
+            Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you.
         </p>
 
         <h2>12. Changes to These Terms</h2>
@@ -190,6 +212,28 @@
         <h2>13. Contact</h2>
         <p>Questions about these Terms:</p>
         <p><a href="mailto:foosher199@gmail.com">foosher199@gmail.com</a></p>
+
+        <div class="lang">
+            <h1>使用条款</h1>
+            <p class="updated">更新日期：<strong>2026年9月13日</strong></p>
+            <p>
+                使用本应用即表示你同意本条款和<a href="privacy.html">隐私政策</a>。从 App Store 下载的，还适用 Apple
+                <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">标准最终用户许可协议</a>。
+            </p>
+            <h2>订阅</h2>
+            <p>Premium 为自动续订订阅，由 Apple 收款。免费功能包括验证码、密码库、密码生成器、应用锁和键盘。Premium 解锁加密 iCloud 同步，以及受密码保护的备份导出与导入。</p>
+            <ul>
+                <li>周订阅：每周自动续订。美国价格为每周 $4.99；其他地区价格以购买前 App Store 显示为准。</li>
+                <li>年订阅：每年自动续订。美国价格为每年 $29.99；其他地区价格以购买前 App Store 显示为准。</li>
+                <li>当前没有免费试用，除非购买页明确显示试用。</li>
+                <li>确认购买时向 Apple ID 收费。除非在当前周期结束前至少 24 小时取消，否则自动续订。</li>
+                <li>可在「设置 &gt; Apple ID &gt; 订阅」中管理或取消。退款由 Apple 按 App Store 政策处理。</li>
+            </ul>
+            <p>
+                可迁移备份使用你设置的密码加密。我们无法重置或找回该密码。丢失密码将无法恢复该备份文件。
+                联系邮箱：<a href="mailto:foosher199@gmail.com">foosher199@gmail.com</a>
+            </p>
+        </div>
 
         <div class="footer">
             See also: <a href="privacy.html">Privacy Policy</a>
