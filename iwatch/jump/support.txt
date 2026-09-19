@@ -1,0 +1,79 @@
+Support
+
+This page applies to the Apple Watch application that links here (the “App”). The App’s display name may change; this page is not tied to any specific product name.
+
+What the App Offers
+1. A charge-to-jump casual game built for Apple Watch
+2. Hold to charge, release to leap onto the next platform
+3. Perfect landings and combo bonuses for higher scores
+4. Multiple visual themes
+5. A local high-score list on your Watch
+6. Optional aim line, on-screen hint, score popups, haptics, and landing shake
+7. Pause during a run
+8. English and Simplified Chinese, following the Watch language
+
+Privacy
+Gameplay, scores, theme choice, and settings stay on your Watch. We do not require an account, and we do not operate a server that stores your scores. Uninstalling the App removes local data.
+
+Common Questions
+1. How do I play?
+Hold on the screen to charge, then release to jump. Land on the next platform to keep going. A round is short and can be paused at any time.
+
+2. Why is there no sound?
+watchOS has no game speaker for this App. Feedback uses Watch haptics, which you can turn off in Settings.
+
+3. Where are my scores saved?
+High scores and the local leaderboard are stored on this Watch only. They are not synced to iPhone or iCloud. Reset in Settings clears them. Deleting the App also clears them.
+
+4. Can I turn off the dashed aim line or floating scores?
+Yes. Open Settings in the App and toggle Aim Line, Hint, Score Popup, Haptics, or Jump Shake.
+
+Need Help?
+Email: foosher199@gmail.com
+
+Please include the Watch model, watchOS version, and a short description of the issue.
+
+Privacy Policy: https://foosher199.github.io/AppstoreSupport/iwatch/jump/privacy.html
+Terms of Use: https://foosher199.github.io/AppstoreSupport/iwatch/jump/terms.html
+Apple Standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+---
+
+支持
+
+本页适用于链接到此处的 Apple Watch 应用（下称「本应用」）。应用显示名称日后可能调整，本页不绑定具体产品名。
+
+功能
+1. 专为 Apple Watch 打造的蓄力跳跃休闲游戏
+2. 按住蓄力，松手跳到下一块台面
+3. 踩中中心可拿完美，连续命中可叠连击
+4. 多种画面主题
+5. 本机最高分与本地排行
+6. 可开关引导虚线、操作提示、飘分、触感、落地抖动
+7. 对局中可暂停
+8. 英文与简体中文，跟随手表系统语言
+
+隐私
+对局、分数、主题和设置保存在本机手表上。无需注册账号。我们没有用于保存分数的服务器。卸载应用会清除本机数据。
+
+常见问题
+1. 怎么玩？
+按住屏幕蓄力，松手起跳。落到下一块台面即可继续。一局很短，随时可以暂停。
+
+2. 为什么没有声音？
+本应用在 watchOS 上不使用游戏扬声器。反馈通过手表触感完成，可在设置中关闭。
+
+3. 分数存在哪里？
+最高分和本地排行只存在这块手表上，不同步到 iPhone 或 iCloud。可在设置中重置。删除应用也会清除这些数据。
+
+4. 能关掉引导虚线或飘分吗？
+可以。打开应用内设置，开关引导线、提示、飘分、触感或落地抖动。
+
+需要帮助？
+邮箱：foosher199@gmail.com
+
+请注明手表型号、watchOS 版本，以及简要问题描述。
+
+隐私政策：https://foosher199.github.io/AppstoreSupport/iwatch/jump/privacy.html
+使用条款：https://foosher199.github.io/AppstoreSupport/iwatch/jump/terms.html
+Apple 标准许可协议：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
