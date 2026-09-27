@@ -17,10 +17,9 @@ Portable backups are encrypted with a password you choose. We cannot recover tha
 
 Subscriptions
 1. No account registration with us
-2. Weekly Premium: $4.99 per week in the United States (local prices shown before purchase)
-3. Yearly Premium: $29.99 per year in the United States (local prices shown before purchase)
-4. No free trial unless a trial is shown on the purchase sheet
-5. Restore Purchases is available in the app; manage or cancel in Settings > Apple ID > Subscriptions
+2. Premium is an auto-renewable subscription. The plan name, billing period, and price shown in the app before purchase are charged to your Apple ID. They may change and differ by storefront.
+3. No free trial unless a trial is shown on the purchase sheet
+4. Restore Purchases is available in the app; manage or cancel in Settings > Apple ID > Subscriptions
 
 Privacy Policy: https://foosher199.github.io/AppstoreSupport/code/privacy.html
 Terms of Use: https://foosher199.github.io/AppstoreSupport/code/terms.html
