@@ -6,266 +6,232 @@
     <title>Privacy Policy</title>
     <style>
         body {
-            font-family: 'Helvetica Neue', Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             line-height: 1.6;
             color: #333;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #f9f9f9;
-        }
-        .container {
-            background-color: white;
-            border-radius: 8px;
-            padding: 30px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            background-color: #fff;
         }
         h1 {
-            color: #2c3e50;
-            text-align: center;
-            margin-bottom: 30px;
-            font-size: 28px;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 15px;
+            font-size: 1.8em;
+            margin-bottom: 0.5em;
+            color: #111;
         }
         h2 {
-            color: #3498db;
-            margin-top: 25px;
-            font-size: 22px;
+            font-size: 1.3em;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+            color: #222;
         }
-        h3 {
-            color: #2c3e50;
-            font-size: 18px;
-            margin-top: 20px;
+        .meta {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 2em;
         }
-        p { margin-bottom: 15px; }
-        ul { padding-left: 20px; }
-        li { margin-bottom: 8px; }
-        .updated {
-            font-style: italic;
-            color: #7f8c8d;
-            text-align: center;
-            margin-bottom: 25px;
+        a {
+            color: #0066cc;
+            text-decoration: none;
         }
-        .footer {
-            margin-top: 40px;
-            text-align: center;
-            font-size: 14px;
-            color: #7f8c8d;
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            padding-left: 1.5em;
+        }
+        li {
+            margin-bottom: 0.5em;
+        }
+        .divider {
             border-top: 1px solid #eee;
-            padding-top: 20px;
+            margin: 2.5em 0;
         }
-        a { color: #3498db; }
-        .lang {
-            margin-top: 48px;
-            padding-top: 8px;
-            border-top: 2px solid #eee;
+        .contact {
+            margin-top: 2em;
+            padding-top: 1em;
+            border-top: 1px solid #eee;
+        }
+        strong {
+            color: #111;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Privacy Policy</h1>
-        <p class="updated">
-            Effective Date: <strong>September 13, 2026</strong><br>
-            Last Updated: <strong>September 26, 2026</strong>
-        </p>
+    <h1>Privacy Policy</h1>
+    <p class="meta">
+        Effective Date: September 13, 2026<br>
+        Last Updated: September 29, 2026
+    </p>
 
-        <h2>Introduction</h2>
-        <p>
-            This Privacy Policy applies to the application and related services that link to this page
-            from within the app, on App Store product pages, or on related websites (collectively, the “App”).
-            The App provides two-factor authentication (TOTP) codes, a local password vault, a custom keyboard
-            for inserting verification codes, and Premium iCloud sync and password-protected portable backups.
-        </p>
-        <p>
-            By using the App, you agree to this Privacy Policy. Related terms are in our
-            <a href="terms.html">Terms of Use</a>.
-        </p>
+    <h2>Introduction</h2>
+    <p>
+        This Privacy Policy applies to the application and related services that link to this page from within the app, on App Store product pages, or on related websites (collectively, the "App"). The App provides two-factor authentication (TOTP) codes, a local password vault, a custom keyboard for inserting verification codes, and Premium iCloud sync and password-protected portable backups.
+    </p>
+    <p>
+        By using the App, you agree to this Privacy Policy. Related terms are in our <a href="https://foosher199.github.io/AppstoreSupport/code/terms.html">Terms of Use</a>.
+    </p>
 
-        <h2>Information We Collect</h2>
+    <h2>Information We Collect</h2>
 
-        <h3>Authentication Secrets and Account Data</h3>
-        <p>
-            When you add two-factor accounts, the App stores issuer names, account labels, groups, and TOTP secrets
-            entered manually or read from QR codes (including standard <code>otpauth://</code> codes and Google
-            Authenticator migration codes). Password entries you save (title, username, password, website, and group)
-            are stored for your use in the App.
-        </p>
-        <p>
-            This data is encrypted on your device with AES-256-GCM. <strong>We do not operate a server that receives
-            your OTP secrets or passwords.</strong>
-        </p>
+    <h3>Authentication Secrets and Account Data</h3>
+    <p>
+        When you add two-factor accounts, the App stores issuer names, account labels, groups, and TOTP secrets entered manually or read from QR codes (including standard <code>otpauth://</code> codes and Google Authenticator migration codes). Password entries you save (title, username, password, website, and group) are stored for your use in the App.
+    </p>
+    <p>
+        This data is encrypted on your device with AES-256-GCM. <strong>We do not operate a server that receives your OTP secrets or passwords.</strong>
+    </p>
 
-        <h3>Camera and Photo Library</h3>
-        <p>With your permission, the App may use:</p>
-        <ul>
-            <li><strong>Camera</strong> — to scan QR codes that contain authenticator setup data</li>
-            <li><strong>Photo Library (read)</strong> — to detect QR codes in images you select</li>
-        </ul>
-        <p>
-            Camera and photo access are used only to extract setup information on your device.
-            We do not upload your photos or camera frames to our servers.
-        </p>
+    <h3>Camera and Photo Library</h3>
+    <p>With your permission, the App may use:</p>
+    <ul>
+        <li><strong>Camera</strong> — to scan QR codes that contain authenticator setup data</li>
+        <li><strong>Photo Library (read)</strong> — to detect QR codes in images you select</li>
+    </ul>
+    <p>
+        Camera and photo access are used only to extract setup information on your device. We do not upload your photos or camera frames to our servers.
+    </p>
 
-        <h3>Biometrics and App Lock</h3>
-        <p>
-            If you enable app lock, Face ID or Touch ID is handled by Apple’s LocalAuthentication framework on your device.
-            We do not receive your biometric data. Biometric matching stays on your device under Apple’s control.
-        </p>
+    <h3>Biometrics and App Lock</h3>
+    <p>
+        If you enable app lock, Face ID, Touch ID, or the device passcode is handled by Apple's LocalAuthentication framework on your device. We do not receive your biometric data or device passcode. Biometric matching stays on your device under Apple's control.
+    </p>
 
-        <h3>iCloud Sync (Premium)</h3>
-        <p>
-            If you have an active Premium subscription and turn on iCloud sync, an encrypted vault may be stored in
-            your personal iCloud / CloudKit container associated with your Apple ID so you can restore data across
-            your devices. That data is subject to
-            <a href="https://www.apple.com/legal/privacy/">Apple’s Privacy Policy</a>.
-            We do not have access to the contents of your iCloud account.
-        </p>
+    <h3>iCloud Sync (Premium)</h3>
+    <p>
+        If you have an active Premium subscription and turn on iCloud sync, an encrypted vault may be stored in your personal iCloud / CloudKit container associated with your Apple ID so you can restore data across your devices. That data is subject to <a href="https://www.apple.com/legal/privacy/">Apple's Privacy Policy</a>. We do not have access to the contents of your iCloud account.
+    </p>
 
-        <h3>Portable Backups (Premium)</h3>
-        <p>
-            Premium lets you export a backup file encrypted with a password you choose (PBKDF2 and AES-256-GCM).
-            The backup can include authenticator accounts and password-vault entries. We never receive that password
-            and cannot recover it or decrypt the file for you. Exported files stay wherever you save or share them.
-        </p>
+    <h3>Portable Backups (Premium)</h3>
+    <p>
+        Premium lets you export a backup file encrypted with a password you choose (PBKDF2 and AES-256-GCM). The backup can include authenticator accounts and password-vault entries. We never receive that password and cannot recover it or decrypt the file for you. Exported files stay wherever you save or share them.
+    </p>
 
-        <h3>App Group and Keyboard Extension</h3>
-        <p>
-            The optional keyboard reads an encrypted shared vault on your device via App Group / Keychain access groups
-            so you can insert current TOTP codes into other apps. iOS requires Allow Full Access for a keyboard to
-            read that shared vault. <strong>The keyboard does not read, store, or transmit what you type.</strong>
-            You can revoke keyboard access in iOS Settings at any time.
-        </p>
+    <h3>App Group and Keyboard Extension</h3>
+    <p>
+        The optional keyboard reads an encrypted shared vault on your device via App Group / Keychain access groups so you can insert current TOTP codes into other apps. iOS requires Allow Full Access for a keyboard to read that shared vault. <strong>The keyboard does not read, store, or transmit what you type.</strong> You can revoke keyboard access in iOS Settings at any time.
+    </p>
 
-        <h3>Subscription and Purchase Information</h3>
-        <p>
-            If you subscribe to Premium, payment is processed by Apple through the App Store (StoreKit).
-            We do not receive your payment card details. The App reads subscription status on your device to unlock
-            Premium features (iCloud sync, and password-protected export/import), including:
-        </p>
-        <ul>
-            <li>Product identifier and whether a subscription is currently active</li>
-            <li>Plan name and billing period as shown in the App at purchase</li>
-            <li>Transaction and entitlement information returned by Apple (for validation and restore purchases)</li>
-        </ul>
-        <p>There is no free trial unless a trial is clearly shown on the purchase sheet in the App.</p>
+    <h3>Subscription and Purchase Information</h3>
+    <p>
+        If you subscribe to Premium, payment is processed by Apple through the App Store (StoreKit). We do not receive your payment card details. The App reads subscription status on your device to unlock Premium features (iCloud sync, and password-protected export/import), including:
+    </p>
+    <ul>
+        <li>Product identifier and whether a subscription is currently active</li>
+        <li>Plan name and billing period as shown in the App at purchase</li>
+        <li>Transaction and entitlement information returned by Apple (for validation and restore purchases)</li>
+    </ul>
+    <p>There is no free trial unless a trial is clearly shown on the purchase sheet in the App.</p>
 
-        <h3>Information Stored on Your Device</h3>
-        <p>The App may store the following data locally on your device:</p>
-        <ul>
-            <li>Encrypted OTP accounts and password entries</li>
-            <li>App lock and preference settings</li>
-            <li>iCloud sync on/off state</li>
-        </ul>
-        <p>
-            Uninstalling the App removes local app data. Data already synced to your iCloud remains under your Apple ID
-            until you delete it through Apple’s tools or turn off sync and clear related iCloud data.
-        </p>
+    <h3>Information Stored on Your Device</h3>
+    <p>The App may store the following data locally on your device:</p>
+    <ul>
+        <li>Encrypted OTP accounts and password entries</li>
+        <li>App lock and preference settings</li>
+        <li>iCloud sync on/off state</li>
+    </ul>
+    <p>
+        Uninstalling the App removes local app data. Data already synced to your iCloud remains under your Apple ID until you delete it through Apple's tools or turn off sync and clear related iCloud data.
+    </p>
 
-        <h3>Information We Do Not Collect</h3>
-        <p>We do not collect:</p>
-        <ul>
-            <li>Account registration data (the App does not require sign-in with us)</li>
-            <li>Your OTP secrets, passwords, or backup passwords on our servers</li>
-            <li>Keyboard keystrokes</li>
-            <li>Contacts, calendars, or other data unrelated to core features</li>
-            <li>Advertising identifiers or cross-app tracking data</li>
-            <li>Analytics through third-party analytics SDKs</li>
-        </ul>
+    <h3>Information We Do Not Collect</h3>
+    <p>We do not collect:</p>
+    <ul>
+        <li>Account registration data (the App does not require sign-in with us)</li>
+        <li>Your OTP secrets, passwords, or backup passwords on our servers</li>
+        <li>Keyboard keystrokes</li>
+        <li>Contacts, calendars, or other data unrelated to core features</li>
+        <li>Advertising identifiers or cross-app tracking data</li>
+        <li>Analytics through third-party analytics SDKs</li>
+    </ul>
 
-        <h2>How We Use Information</h2>
-        <p>We use the information above only to:</p>
-        <ul>
-            <li>Generate and display TOTP codes and manage your password vault</li>
-            <li>Scan QR codes to add accounts</li>
-            <li>Protect access with app lock</li>
-            <li>Sync an encrypted vault when you enable Premium iCloud sync</li>
-            <li>Create or restore a password-protected backup file when you request it</li>
-            <li>Power the keyboard extension when you enable it</li>
-            <li>Validate App Store subscriptions, restore purchases, and apply Premium benefits</li>
-            <li>Respond to support requests</li>
-        </ul>
+    <h2>How We Use Information</h2>
+    <p>We use the information above only to:</p>
+    <ul>
+        <li>Generate and display TOTP codes and manage your password vault</li>
+        <li>Scan QR codes to add accounts</li>
+        <li>Protect access with app lock</li>
+        <li>Sync an encrypted vault when you enable Premium iCloud sync</li>
+        <li>Create or restore a password-protected backup file when you request it</li>
+        <li>Power the keyboard extension when you enable it</li>
+        <li>Validate App Store subscriptions, restore purchases, and apply Premium benefits</li>
+        <li>Respond to support requests</li>
+    </ul>
 
-        <h2>Storage, Retention, and Deletion</h2>
-        <p>
-            Your authentication and password data stay on your device in encrypted form by default.
-            Optional Premium copies may live in your personal iCloud container or in password-protected files you export.
-            Except for Apple App Store subscription validation and optional Apple iCloud storage you enable,
-            the App does not rely on our own cloud database.
-        </p>
-        <ul>
-            <li>Local vault data remains until you delete entries or uninstall the App.</li>
-            <li>Exported backup files are under your control wherever you save or share them.</li>
-            <li>iCloud copies follow Apple’s retention for your Apple ID.</li>
-        </ul>
-        <p>
-            You can delete individual accounts or password entries in the App, or delete the App to clear local data.
-            Deleting the App does not cancel an App Store subscription; manage subscriptions in Settings &gt; Apple ID &gt; Subscriptions.
-        </p>
+    <h2>Storage, Retention, and Deletion</h2>
+    <p>
+        Your authentication and password data stay on your device in encrypted form by default. Optional Premium copies may live in your personal iCloud container or in password-protected files you export. Except for Apple App Store subscription validation and optional Apple iCloud storage you enable, the App does not rely on our own cloud database.
+    </p>
+    <ul>
+        <li>Local vault data remains until you delete entries or uninstall the App.</li>
+        <li>Exported backup files are under your control wherever you save or share them.</li>
+        <li>iCloud copies follow Apple's retention for your Apple ID.</li>
+    </ul>
+    <p>
+        You can delete individual accounts or password entries in the App, or delete the App to clear local data. Deleting the App does not cancel an App Store subscription; manage subscriptions in Settings &gt; Apple ID &gt; Subscriptions.
+    </p>
 
-        <h2>Sharing of Information</h2>
-        <p>We do not sell your personal information. Information is involved only in these cases:</p>
-        <ul>
-            <li><strong>Apple</strong> — App Store subscriptions, optional iCloud / CloudKit sync, camera and photo
-                library permissions, and biometric unlock, subject to
-                <a href="https://www.apple.com/legal/privacy/">Apple’s Privacy Policy</a>.</li>
-            <li><strong>You</strong> — when you export a backup or use the system share sheet to send a file you choose.</li>
-            <li><strong>Legal requirements</strong> — when required by law or to protect users, our service, or the public.</li>
-        </ul>
+    <h2>Sharing of Information</h2>
+    <p>We do not sell your personal information. Information is involved only in these cases:</p>
+    <ul>
+        <li><strong>Apple</strong> — App Store subscriptions, optional iCloud / CloudKit sync, camera and photo library permissions, and biometric unlock, subject to <a href="https://www.apple.com/legal/privacy/">Apple's Privacy Policy</a>.</li>
+        <li><strong>You</strong> — when you export a backup or use the system share sheet to send a file you choose.</li>
+        <li><strong>Legal requirements</strong> — when required by law or to protect users, our service, or the public.</li>
+    </ul>
 
-        <h2>Tracking</h2>
-        <p>
-            We do not track you across apps or websites owned by other companies, and we do not show targeted
-            advertising in the App.
-        </p>
+    <h2>Tracking</h2>
+    <p>
+        We do not track you across apps or websites owned by other companies, and we do not show targeted advertising in the App.
+    </p>
 
-        <h2>Security</h2>
-        <p>
-            The App encrypts vault data on device (AES-256-GCM) and uses Apple Keychain / App Group mechanisms where applicable.
-            You remain responsible for protecting your device passcode, biometrics, backup password, exported files, and Apple ID.
-            No app can guarantee perfect security.
-        </p>
+    <h2>Security</h2>
+    <p>
+        The App encrypts vault data on device (AES-256-GCM) and uses Apple Keychain / App Group mechanisms where applicable. You remain responsible for protecting your device passcode, biometrics, backup password, exported files, and Apple ID. No app can guarantee perfect security.
+    </p>
 
-        <h2>Children’s Privacy</h2>
-        <p>
-            The App is not directed at children under 13. If you believe a child has provided us personal
-            information, contact us and we will help address it.
-        </p>
+    <h2>Children's Privacy</h2>
+    <p>
+        The App is not directed at children under 13. If you believe a child has provided us personal information, contact us and we will help address it.
+    </p>
 
-        <h2>Changes to This Policy</h2>
-        <p>
-            We may update this Privacy Policy from time to time. The “Last Updated” date at the top of this page
-            will change when we do. Continued use of the App after an update means you accept the revised policy.
-        </p>
+    <h2>Changes to This Policy</h2>
+    <p>
+        We may update this Privacy Policy from time to time. The "Last Updated" date at the top of this page will change when we do. Continued use of the App after an update means you accept the revised policy.
+    </p>
 
-        <h2>Contact</h2>
-        <p>Questions about this Privacy Policy or your data:</p>
-        <p><a href="mailto:foosher199@gmail.com">foosher199@gmail.com</a></p>
+    <h2>Contact</h2>
+    <p>Questions about this Privacy Policy or your data:</p>
+    <p class="contact">
+        <a href="mailto:foosher199@gmail.com">foosher199@gmail.com</a>
+    </p>
 
-        <div class="lang">
-            <h1>隐私政策</h1>
-            <p class="updated">更新日期：<strong>2026年9月26日</strong></p>
-            <p>
-                本政策适用于链接到本页的应用。应用提供双重验证（TOTP）验证码、本地密码库、验证码键盘，以及 Premium 的 iCloud 同步和受密码保护的可迁移备份。
-                使用应用即表示你同意本政策。相关条款见<a href="terms.html">使用条款</a>。
-            </p>
-            <h2>我们如何处理数据</h2>
-            <ul>
-                <li>验证码密钥和密码加密保存在本机（AES-256-GCM）。我们没有接收这些数据的服务器。</li>
-                <li>相机和相册仅用于在本机识别验证码二维码（含标准 otpauth 与 Google Authenticator 迁移码），不会上传照片。</li>
-                <li>面容 ID / 触控 ID 由 Apple 在设备上处理，我们不获取生物识别数据。</li>
-                <li>Premium 的 iCloud 同步把加密保险库存入你自己的 iCloud。我们无法读取其内容。</li>
-                <li>Premium 备份由你设置的密码加密。我们收不到该密码，也无法帮你找回或解密。</li>
-                <li>键盘的「完全访问」仅用于读取本机加密共享库以插入验证码。<strong>不读取、不保存、不上传你输入的内容。</strong></li>
-                <li>订阅由 Apple 处理。我们不收集银行卡信息，也不跨 App 追踪，不展示定向广告。</li>
-            </ul>
-            <p>当前没有免费试用，除非购买页明确显示试用。联系邮箱：<a href="mailto:foosher199@gmail.com">foosher199@gmail.com</a></p>
-        </div>
+    <div class="divider"></div>
 
-        <div class="footer">
-            See also: <a href="terms.html">Terms of Use</a>
-        </div>
-    </div>
+    <h1>隐私政策</h1>
+    <p class="meta">
+        更新日期：2026年9月29日
+    </p>
+
+    <p>
+        本政策适用于链接到本页的应用。应用提供双重验证（TOTP）验证码、本地密码库、验证码键盘，以及 Premium 的 iCloud 同步和受密码保护的可迁移备份。使用应用即表示你同意本政策。相关条款见<a href="https://foosher199.github.io/AppstoreSupport/code/terms.html">使用条款</a>。
+    </p>
+
+    <h2>我们如何处理数据</h2>
+    <ul>
+        <li>验证码密钥和密码加密保存在本机（AES-256-GCM）。我们没有接收这些数据的服务器。</li>
+        <li>相机和相册仅用于在本机识别验证码二维码（含标准 otpauth 与 Google Authenticator 迁移码），不会上传照片。</li>
+        <li>面容 ID、触控 ID 或设备密码由 Apple 在设备上处理，我们不获取生物识别数据或设备密码。</li>
+        <li>Premium 的 iCloud 同步把加密保险库存入你自己的 iCloud。我们无法读取其内容。</li>
+        <li>Premium 备份由你设置的密码加密。我们收不到该密码，也无法帮你找回或解密。</li>
+        <li>键盘的「完全访问」仅用于读取本机加密共享库以插入验证码。<strong>不读取、不保存、不上传你输入的内容。</strong></li>
+        <li>订阅由 Apple 处理。我们不收集银行卡信息，也不跨 App 追踪，不展示定向广告。</li>
+    </ul>
+
+    <p>当前没有免费试用，除非购买页明确显示试用。</p>
+    <p>联系邮箱：<a href="mailto:foosher199@gmail.com">foosher199@gmail.com</a></p>
+
+    <p style="margin-top: 2em; font-size: 0.9em; color: #666;">
+        See also: <a href="https://foosher199.github.io/AppstoreSupport/code/terms.html">Terms of Use</a>
+    </p>
 </body>
 </html>
